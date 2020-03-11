@@ -1,0 +1,10 @@
+node_modules
+mrsindico-models
+.env
+*.log
+*.pem
+*.crt
+*.key
+*.ca
+.DS_Store
+yarn.lock
